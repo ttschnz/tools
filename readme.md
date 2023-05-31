@@ -10,9 +10,22 @@
 - [explainshell](https://www.explainshell.com/) Command-Line explanation (linux only) ([github](https://github.com/idank/explainshell))
 - [showthedocs](http://showthedocs.com/) Configuration explanation for postgres, mysql, nginx, gitconfig ([github](https://github.com/idank/showthedocs))
 # UI/UX Design
+## Component Sets
 - [carbon](https://carbondesignsystem.com/) ([github](https://github.com/carbon-design-system/carbon))
+  - Components for Angular, Svelte, Vue, React
 - [material-ui](https://mui.com/core/) ([github](https://github.com/mui/material-ui))
 - [tailwind-css](https://tailwindcss.com/) ([github](https://github.com/tailwindlabs/tailwindcss))
+- [ant-design](https://ant.design/) ([github](https://github.com/ant-design/ant-design))
+  - Components for React
+- [atlassian](https://atlassian.design/) 
+  - Components for React
+- [fluent2](https://fluent2.microsoft.design/) microsofts design system
+  - Components for React
+- [copycat](https://www.copycat.dev/) Figma -> React
+- [flowbite](https://flowbite-svelte.com/)
+  - Highly customizable components for Svelte
+## Guidelines
+- [apples guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 # Monitoring
 - [netdata](https://www.netdata.cloud/) ([github](https://github.com/netdata/netdata))
 # Databasing
@@ -26,5 +39,6 @@
   -  [wry](https://github.com/tauri-apps/wry)
   -  [tao](https://github.com/tauri-apps/tao)
 ## JS
+- [svelte-kit](https://kit.svelte.dev/) Speed, simplicity, straight-forwardness, optinal ssr
 - [quik](https://qwik.builder.io/) A framework that mixes ssr and csr ([github](https://github.com/BuilderIO/qwik))
 - [redwood](https://github.com/redwoodjs/redwood) A framework that supports prisma and graphql out of the box
