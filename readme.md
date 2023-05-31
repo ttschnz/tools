@@ -13,6 +13,8 @@
 ## Component Sets
 - [carbon](https://carbondesignsystem.com/) ([github](https://github.com/carbon-design-system/carbon))
   - Components for Angular, Svelte, Vue, React
+- [flowbite](https://flowbite-svelte.com/) Highly customizable, tailwind integrated ([github](https://github.com/themesberg/flowbite-svelte))
+  - Components for Svelte
 - [material-ui](https://mui.com/core/) ([github](https://github.com/mui/material-ui))
 - [tailwind-css](https://tailwindcss.com/) ([github](https://github.com/tailwindlabs/tailwindcss))
 - [ant-design](https://ant.design/) ([github](https://github.com/ant-design/ant-design))
@@ -22,8 +24,6 @@
 - [fluent2](https://fluent2.microsoft.design/) microsofts design system
   - Components for React
 - [copycat](https://www.copycat.dev/) Figma -> React
-- [flowbite](https://flowbite-svelte.com/)
-  - Highly customizable components for Svelte
 ## Guidelines
 - [apples guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 # Monitoring
