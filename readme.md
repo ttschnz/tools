@@ -10,6 +10,9 @@
 - [explainshell](https://www.explainshell.com/) Command-Line explanation (linux only) ([github](https://github.com/idank/explainshell))
 - [showthedocs](http://showthedocs.com/) Configuration explanation for postgres, mysql, nginx, gitconfig ([github](https://github.com/idank/showthedocs))
 # UI/UX Design
+## Css
+- [fancy-border-radius](https://9elements.github.io/fancy-border-radius/)
+- [haikei](https://app.haikei.app/)
 ## Component Sets
 - [carbon](https://carbondesignsystem.com/) ([github](https://github.com/carbon-design-system/carbon))
   - Components for Angular, Svelte, Vue, React
